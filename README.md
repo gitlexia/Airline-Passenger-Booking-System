@@ -1,2 +1,0 @@
-# Airline Passenger System (C++)
-This project implements an airline passenger management system in C++, developed as a final project at Colorado State University. The system models core airline operations including passenger records, flight assignments, seat allocation, and booking management using object-oriented design principles. It demonstrates the use of custom data structures, file handling, and modular program architecture to simulate real-world reservation workflows.
